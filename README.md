@@ -1,4 +1,4 @@
-# Kill-Router
+# routerkill
 Ferramenta para quebrar senhas administrativas de roteadores Wireless, routers, switches e outras plataformas de gestão de serviços de rede autenticados. 
 
 
@@ -10,14 +10,14 @@ O KillRouter é um script mega simples que criei durante um experiência onde ne
 Faça o clone do projeto:
 
 ```bash
-git clone https://github.com/msfidelis/Kill-Router-.git  
+git clone https://github.com/msfidelis/routerkill.git  
 ```
 
 Agora instale as dependências
 Este passo é opcional, só para garantir que você tem todas as bibliotecas do python que o script utiliza.
 
 ```
-cd Kill-Router-/  
+cd routerkill/  
 chmod +x install-kill-router.sh  
 sudo ./install-kill-router.sh
 ```
