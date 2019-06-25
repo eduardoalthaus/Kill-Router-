@@ -19,7 +19,7 @@ Este passo é opcional, só para garantir que você tem todas as bibliotecas do 
 ```
 cd Kill-Router-/  
 chmod +x install-kill-router.sh  
-./install-kill-router.sh  ```
+sudo ./install-kill-router.sh
 ```
 
 ```bash
