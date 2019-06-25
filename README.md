@@ -10,7 +10,7 @@ O KillRouter é um script mega simples que criei durante um experiência onde ne
 Faça o clone do projeto:
 
 ```bash
-git clone https://github.com/msfidelis/routerkill.git  
+git clone https://github.com/msfidelis/routerkill
 ```
 
 Agora instale as dependências
