@@ -1,4 +1,4 @@
-# Kill-Router-
+# Kill-Router
 Ferramenta para quebrar senhas administrativas de roteadores Wireless, routers, switches e outras plataformas de gestão de serviços de rede autenticados. 
 
 
